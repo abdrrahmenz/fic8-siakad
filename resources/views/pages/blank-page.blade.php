@@ -9,7 +9,7 @@
 @section('main')<div class="main-content">
         <section class="section">
             <div class="section-header">
-                <h1>Blank Page Abdurrahman</h1>
+                <h1>Blank Page Abdurrahmans</h1>
             </div>
 
             <div class="section-body">
